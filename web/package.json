@@ -1,0 +1,53 @@
+{
+  "name": "realtime-chat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.16",
+    "@heroicons/react": "^2.0.18",
+    "@hookform/resolvers": "^3.1.1",
+    "@stripe/stripe-js": "^2.1.0",
+    "@tailwindcss/forms": "^0.5.4",
+    "@types/node": "20.3.3",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "autoprefixer": "10.4.14",
+    "aws-sdk": "^2.1430.0",
+    "axios": "^1.4.0",
+    "class-variance-authority": "^0.6.1",
+    "clsx": "^1.2.1",
+    "date-fns": "^2.30.0",
+    "encoding": "^0.1.13",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.8",
+    "formidable": "^3.5.0",
+    "js-cookie": "^3.0.5",
+    "lucide-react": "^0.258.0",
+    "next": "13.4.8",
+    "postcss": "8.4.24",
+    "raw-body": "^2.5.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.1",
+    "react-hot-toast": "^2.4.1",
+    "react-loading-skeleton": "^3.3.1",
+    "react-textarea-autosize": "^8.5.2",
+    "stripe": "^13.3.0",
+    "tailwind-merge": "^1.13.2",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.6",
+    "zod": "^3.21.4",
+    "zustand": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/aws-sdk": "^2.7.0",
+    "@types/formidable": "^3.4.0",
+    "@types/js-cookie": "^3.0.3"
+  }
+}
